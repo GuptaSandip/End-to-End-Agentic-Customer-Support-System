@@ -1,7 +1,6 @@
 // location: frontend/src/api.js
 
-const API_BASE = ["http://localhost:8000",
-    "https://guptasandip-agentic-customer-support.hf.space"];
+const API_BASE = "https://guptasandip-agentic-customer-support.hf.space";
 
 export async function sendMessage(sessionId, message) {
     const start = performance.now();
