@@ -1,0 +1,164 @@
+[
+    {
+        "id": "faq-001",
+        "category": "account_kyc",
+        "question": "Why is my KYC verification taking so long?",
+        "answer": "KYC verification typically takes 24-48 hours after document upload. Delays usually happen due to blurry document images, mismatched name spellings, or high verification volume. You can check your KYC status under Profile > Verification Status. If it's been more than 72 hours, please re-upload clear photos of your PAN card and address proof."
+    },
+    {
+        "id": "faq-002",
+        "category": "account_kyc",
+        "question": "What documents are required for KYC?",
+        "answer": "You need a government-issued photo ID (PAN card, Aadhaar, or passport) and a proof of address (utility bill, bank statement, or Aadhaar). Both documents must be uploaded in JPEG or PDF format, under 5MB each, and clearly show all four corners."
+    },
+    {
+        "id": "faq-003",
+        "category": "account_kyc",
+        "question": "My KYC got rejected, what do I do?",
+        "answer": "KYC rejections are usually due to image quality or name mismatch between your documents and your registered name. Go to Profile > Verification Status > Re-submit, upload fresh clear photos, and ensure the name matches exactly across both documents."
+    },
+    {
+        "id": "faq-004",
+        "category": "account_kyc",
+        "question": "How do I update my registered mobile number?",
+        "answer": "Go to Profile > Settings > Mobile Number, enter your new number, and verify it via OTP sent to both old and new numbers. This is required for security. If you no longer have access to your old number, contact support with your account ID for manual verification."
+    },
+    {
+        "id": "faq-005",
+        "category": "account_kyc",
+        "question": "Can I have two accounts with the same PAN?",
+        "answer": "No, our system only allows one active account per PAN number for regulatory compliance. If you need to switch accounts, please close the old one first through Settings > Account > Close Account."
+    },
+    {
+        "id": "faq-006",
+        "category": "payments",
+        "question": "My payment failed but money was deducted from my bank account. What now?",
+        "answer": "This usually happens due to a delay in bank confirmation. In most cases, the amount is auto-reversed to your source account within 5-7 business days. Check Transaction History for the status. If it's not reversed after 7 days, we'll need to raise this with our payments team."
+    },
+    {
+        "id": "faq-007",
+        "category": "payments",
+        "question": "How long does a UPI refund take?",
+        "answer": "UPI refunds are typically processed within 3-5 business days, depending on the receiving bank's processing time. You'll get a notification once the refund is credited. If it's delayed beyond 7 days, we recommend checking with your bank as well."
+    },
+    {
+        "id": "faq-008",
+        "category": "payments",
+        "question": "Why can't I link my bank account?",
+        "answer": "Bank linking failures usually happen due to incorrect account/IFSC details, or if your bank's UPI services are temporarily down. Double check the details entered, and try again after a few minutes. Some banks also require you to have UPI already registered via their own app first."
+    },
+    {
+        "id": "faq-009",
+        "category": "payments",
+        "question": "What's the maximum transaction limit per day?",
+        "answer": "The default daily UPI transaction limit is Rs. 1,00,000 across up to 20 transactions, as per NPCI guidelines. This limit is set by your bank, not by us, so it may vary. You can check your specific limit under Payments > Limits."
+    },
+    {
+        "id": "faq-010",
+        "category": "payments",
+        "question": "I sent money to the wrong UPI ID, can I get it back?",
+        "answer": "If the transaction is already completed, we cannot reverse it directly since UPI transfers are final once processed. You should immediately contact the recipient to request a return, or file a dispute through Payments > Transaction History > Report Issue, and our team will assist with the formal process."
+    },
+    {
+        "id": "faq-011",
+        "category": "payments",
+        "question": "How do I set up auto-pay for bill payments?",
+        "answer": "Go to Payments > Auto-Pay > Add New, select the biller, enter the amount limit, and authorize via UPI PIN. You can pause or cancel auto-pay anytime from the same section."
+    },
+    {
+        "id": "faq-012",
+        "category": "loans",
+        "question": "How is my loan EMI calculated?",
+        "answer": "EMI is calculated based on the principal amount, interest rate, and tenure using standard reducing-balance calculation. You can view the full amortization schedule under Loans > My Loans > View Schedule, which breaks down principal and interest for each installment."
+    },
+    {
+        "id": "faq-013",
+        "category": "loans",
+        "question": "Can I prepay my loan early?",
+        "answer": "Yes, you can make a partial or full prepayment anytime after the first 3 EMIs. Partial prepayments reduce your outstanding principal and can either shorten your tenure or reduce EMI amount, your choice. Check Loans > My Loans > Prepay for current prepayment charges, if any."
+    },
+    {
+        "id": "faq-014",
+        "category": "loans",
+        "question": "Why was my loan application rejected?",
+        "answer": "Loan rejections are commonly due to low credit score, insufficient income documentation, high existing debt-to-income ratio, or incomplete KYC. You can check the specific reason under Loans > Application Status. You're welcome to reapply after 30 days."
+    },
+    {
+        "id": "faq-015",
+        "category": "loans",
+        "question": "What's the interest rate for personal loans?",
+        "answer": "Personal loan interest rates range from 11% to 24% per annum, depending on your credit score, income, and loan tenure. The exact rate is shown at the time of your loan offer before you accept it."
+    },
+    {
+        "id": "faq-016",
+        "category": "loans",
+        "question": "I missed an EMI payment, what happens now?",
+        "answer": "A missed EMI incurs a late payment fee (typically 2% of the EMI amount) and may affect your credit score if unpaid beyond 30 days. Please pay the pending amount as soon as possible via Loans > My Loans > Pay Now. If you're facing financial difficulty, contact support to discuss restructuring options."
+    },
+    {
+        "id": "faq-017",
+        "category": "loans",
+        "question": "How do I get a loan foreclosure statement?",
+        "answer": "Go to Loans > My Loans > Documents > Foreclosure Statement. This shows the exact amount needed to close your loan as of today, including any applicable foreclosure charges."
+    },
+    {
+        "id": "faq-018",
+        "category": "app_technical",
+        "question": "I'm not receiving the OTP, what should I do?",
+        "answer": "First, check if your mobile number has network signal and isn't on DND for transactional SMS. Wait 60 seconds before requesting a new OTP. If the issue persists, try the 'Get OTP via Call' option, or restart the app."
+    },
+    {
+        "id": "faq-019",
+        "category": "app_technical",
+        "question": "The app keeps crashing on my phone.",
+        "answer": "Try clearing the app cache under your phone's Settings > Apps > [App Name] > Storage > Clear Cache. If that doesn't help, uninstall and reinstall the latest version from the app store. Make sure your phone's OS is updated as well."
+    },
+    {
+        "id": "faq-020",
+        "category": "app_technical",
+        "question": "I forgot my login PIN, how do I reset it?",
+        "answer": "On the login screen, tap 'Forgot PIN', verify your identity via OTP sent to your registered mobile number, and set a new 4-digit PIN. If OTP verification fails, you may need to complete a quick re-KYC step."
+    },
+    {
+        "id": "faq-021",
+        "category": "app_technical",
+        "question": "Why is the app showing 'session expired' repeatedly?",
+        "answer": "This usually happens due to an unstable internet connection or an outdated app version. Please check your connectivity, update the app to the latest version, and try logging in again."
+    },
+    {
+        "id": "faq-022",
+        "category": "app_technical",
+        "question": "How do I enable biometric login?",
+        "answer": "Go to Settings > Security > Biometric Login, and toggle it on. Your phone must have fingerprint or face unlock configured at the OS level first."
+    },
+    {
+        "id": "faq-023",
+        "category": "general",
+        "question": "How do I close my account permanently?",
+        "answer": "Go to Settings > Account > Close Account. Note that you must clear any pending loans and withdraw remaining balance before closure is allowed. Closure requests are processed within 7 business days."
+    },
+    {
+        "id": "faq-024",
+        "category": "general",
+        "question": "Is my money insured or protected?",
+        "answer": "Funds held in your wallet are safeguarded as per RBI's Prepaid Payment Instrument guidelines and held in designated escrow accounts with partner banks. Fixed deposits or investment products, if applicable, follow separate protection rules which are detailed in their specific terms."
+    },
+    {
+        "id": "faq-025",
+        "category": "general",
+        "question": "How do I download my transaction statement?",
+        "answer": "Go to Transaction History > Filter by date range > Download Statement (PDF or CSV). Statements are available for up to the last 3 years of activity."
+    },
+    {
+        "id": "faq-026",
+        "category": "general",
+        "question": "Do you charge any hidden fees?",
+        "answer": "There are no hidden fees. All applicable charges — such as loan processing fees, late payment fees, or premium feature subscriptions — are disclosed upfront before you confirm any transaction. Full fee schedules are available under Settings > Fees & Charges."
+    },
+    {
+        "id": "faq-027",
+        "category": "general",
+        "question": "How do I contact customer support directly?",
+        "answer": "You can reach support via in-app chat (Help > Chat with Us), email at support@example.com, or the helpline listed under Help > Contact Us. In-app chat typically gets the fastest response during business hours."
+    }
+]
