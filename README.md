@@ -18,7 +18,7 @@
 | **Backend API** | [https://guptasandip-agentic-customer-support.hf.space](https://guptasandip-agentic-customer-support.hf.space) | Live (Hugging Face Spaces) |
 | **API Docs (Swagger)** | [https://guptasandip-agentic-customer-support.hf.space/docs](https://guptasandip-agentic-customer-support.hf.space/docs) | Interactive OpenAPI |
 | **Health Check** | [https://guptasandip-agentic-customer-support.hf.space/health](https://guptasandip-agentic-customer-support.hf.space/health) | `{"status":"ok"}` |
-| **Frontend UI** | _Deploy `frontend/` to Vercel and add your URL here_ | React + Vite |
+| **Frontend UI** | [https://end-to-end-agentic-customer-support.vercel.app](https://end-to-end-agentic-customer-support.vercel.app/) | React + Vite |
 
 > **Quick API test**
 > ```bash
@@ -594,7 +594,7 @@ Building production-grade LLM systems: Agentic AI · RAG · LangGraph · Compute
 
 - GitHub: [@GuptaSandip](https://github.com/GuptaSandip)
 - Portfolio: [sandipgupta.is-a.dev](https://sandipgupta.is-a.dev/)
-- Organization: Edunet Foundation
+- LinkedIn: [@sandipgupta-ai](https://www.linkedin.com/in/sandipgupta-ai/)
 
 ---
 
